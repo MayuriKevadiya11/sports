@@ -1,0 +1,12 @@
+
+							<div class="form-group">
+								<label for="InputEndDate"> Ending Date and Time</label>
+								<input type="text" name="end_date" class="form-control " id="datetimepicker2" required placeholder="Enter Ending Date  and Time..">
+							</div>
+<p class="em-time-range">
+    Starting from
+    <input class="em-time-input em-time-start" type="text" name="event_start_time" />
+    to
+    <input class="em-time-input em-time-end" type="text" name="event_end_time" />
+   
+</p>

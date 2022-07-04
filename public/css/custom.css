@@ -1,0 +1,80 @@
+body
+{
+	background: url(background.png);
+	padding-top: 70px;
+	margin: 0,30px,0,30px;
+}
+footer
+{
+	padding: 2em 0;
+	margin: 3em 0;
+	border-top: 1px solid #595930;
+	color:#5C007A;
+	text-align: center;
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+.p1
+{
+	padding-top: 12em;
+	padding-bottom: 10em;
+}
+
+.center
+{
+	text-align: center;
+}
+
+#focus
+{
+	border-color: rgba(0,0,0,.8);
+	box-shadow: 0 0 8px rgba(0,0,0,.6);
+}
+
+.width1
+{
+	width: 10em;
+	/* margin-bottom: 1em; */
+}
+
+#login_type
+{
+	margin-top: 1em;
+	width: 13em;
+	height: 3.2em;
+}
+
+.pad-left
+{
+	padding-left: 2em;
+}
+.pad-right
+{
+	padding-right: 2em;
+}
+
+div.message { 
+	border: 2px solid #a94442;
+	color: #bfbfbf;
+	font-weight: bold;
+	margin: 1em 0 ; 
+	padding: 1em; 
+}
+
+#selected{
+	font-weight: bolder;
+	font-size: 17px; 
+}
+.pad-top
+{
+	padding-top: 8.5em;
+}
+
+.pad-bottom
+{
+	padding-bottom: 2em;
+}
+.b1{
+	margin-bottom:1em;
+}
+ 
